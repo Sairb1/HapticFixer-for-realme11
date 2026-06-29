@@ -4,6 +4,7 @@
 
 ### Restore UI Touch Haptics, Gboard Vibration & Screen-Off Fingerprint Unlock on Nord 3 Port ROMs
 
+<img width="1774" height="887" alt="oos15" src="https://github.com/user-attachments/assets/0a5420f1-18af-48e0-a877-648f319765ba" />
 
 
 <a href="https://github.com/Sairb1/OOS15_Haptic_Fingerprint_Fix/releases">
