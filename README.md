@@ -4,7 +4,7 @@
 
 ### Restore UI Touch Haptics, Gboard Vibration & Screen-Off Fingerprint Unlock on Nord 3 Port ROMs
 
-<img width="1774" height="887" alt="Haptic and Fingerprint Fix Cover" src="https://github.com/user-attachments/assets/65b2ff9e-221a-48e2-8c49-c0bb17c7e72e" />
+
 
 <a href="https://github.com/Sairb1/OOS15_Haptic_Fingerprint_Fix/releases">
   <img src="https://img.shields.io/badge/Port%20Device-Realme%20%7C%2011%205G-brightgreen?style=for-the-badge"/>
